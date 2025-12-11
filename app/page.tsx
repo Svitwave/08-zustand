@@ -1,5 +1,5 @@
-
 import css from "./page.module.css";
+// import { useNoteStore } from "@/lib/store/noteStore";
 
 const Home = () => {
   return (
